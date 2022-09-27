@@ -1,0 +1,7 @@
+Pozadí úvodu #0B3658 
+Tlačítko v úvodu #E9B44C
+Tři obdélníky: propagační strategie #DBECE5
+		   Marketing #D1ECFD
+		   Sociální sítě #FFF3EA
+
+Prostřední container bude mít 1170px
